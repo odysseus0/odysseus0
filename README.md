@@ -8,8 +8,7 @@ Claude Code + Obsidian runs my life. Nix runs my machine. I just show up.
 
 **Interested in:**
 - AI coding agents and developer tools
-- Human-AI interaction patterns
-- Cognitive extension systems
+- Memory systems for AI agents
 
 Previously: Research engineering (computer vision) → Systems @ Flashbots
 
