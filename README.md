@@ -4,7 +4,16 @@
 
 Building our extended mind.
 
-Claude Code + Obsidian runs my life. I just show up.
+Claude Code + Obsidian runs my life. Nix runs my machine. I just show up.
+
+**Interested in:**
+- AI coding agents and developer tools
+- Human-AI interaction patterns
+- Cognitive extension systems
+
+Previously: Research engineering (computer vision) → Systems @ Flashbots
+
+---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -16,15 +25,6 @@ Claude Code + Obsidian runs my life. I just show up.
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Interested in:**
-- AI coding agents and developer tools
-- Human-AI interaction patterns
-- Cognitive extension systems
-
-Previously: Research engineering (computer vision) → Systems @ Flashbots
-
----
 
 [![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
 [![Blog](https://img.shields.io/badge/-tj--zhang.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://tj-zhang.com)
