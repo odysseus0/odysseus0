@@ -4,7 +4,7 @@
 
 Building our extended mind.
 
-Claude Code + Obsidian runs my life. Nix runs my machine. I just show up.
+Claude Code + Obsidian runs my life. [Nix](https://github.com/odysseus0/nix-config) runs my machine. I just show up.
 
 **Interested in:**
 - AI coding agents and developer tools
