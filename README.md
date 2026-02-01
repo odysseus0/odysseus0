@@ -22,7 +22,7 @@ Claude Code + Obsidian runs my life. I just show up.
 - Human-AI interaction patterns
 - Cognitive extension systems
 
-Previously: Research engineering (medical imaging) → Systems @ Flashbots
+Previously: Research engineering (computer vision) → Systems @ Flashbots
 
 ---
 
