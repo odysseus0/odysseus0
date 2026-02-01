@@ -1,6 +1,6 @@
 ### More cyborg than most.
 
-📍 San Francisco • Mox
+📍 San Francisco • [Mox](https://moxsf.com)
 
 Building our extended mind.
 
