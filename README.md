@@ -7,7 +7,8 @@ Building our extended mind.
 Claude Code + Obsidian runs my life. [Nix](https://github.com/odysseus0/nix-config) runs my machine. I just show up.
 
 **Interested in:**
-- AI coding agents and developer tools
+- AI coding agents, developer tooling, and agent harness
+- Agents that run your life
 - Memory systems for AI agents
 
 Previously: Research engineering (computer vision) → Systems @ Flashbots
