@@ -8,7 +8,7 @@ Claude Code + Obsidian runs my life. [Nix](https://github.com/odysseus0/nix-conf
 
 **Interested in:**
 - AI coding agents, developer tooling, and agent harness
-- Agents that run your life
+- Agents that run your life (like 🦞)
 - Memory systems for AI agents
 
 Previously: Research engineering (computer vision) → Systems @ Flashbots
