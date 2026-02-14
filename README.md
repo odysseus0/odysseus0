@@ -1,18 +1,19 @@
-### More cyborg than most.
+San Francisco
 
-📍 San Francisco • [Mox](https://moxsf.com)
+Crafting CLI tools for AI agents.
 
-Building our extended mind.
+### Projects
 
-Claude Code + Obsidian runs my life. [Nix](https://github.com/odysseus0/nix-config) runs my machine. I just show up.
+- [feed](https://github.com/odysseus0/feed) – Headless RSS engine for AI agents. Single binary, no server. Your sources, your algorithm.
+- [linear-cli](https://github.com/odysseus0/linear-cli) – Linear from the terminal. Built for agents, usable by humans.
 
-**Interested in:**
-- AI coding agents, developer tooling, and agent harness
-- Agents that run your life (like 🦞)
-- Memory systems for AI agents
+### Contributions
 
-Previously: Research engineering (computer vision) → Systems @ Flashbots
+- [OpenClaw](https://github.com/openclaw/openclaw) – Open-source AI assistant platform
+- [pi](https://github.com/badlogic/pi-mono) – Toolkit for building AI agents
 
 ---
 
-[![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
+Previously: Computer vision research · Distributed systems
+
+[\![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
