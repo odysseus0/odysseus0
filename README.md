@@ -12,8 +12,6 @@ San Francisco · Crafting CLI tools for AI agents.
 - [OpenClaw](https://github.com/openclaw/openclaw) – Open-source AI assistant platform
 - [pi](https://github.com/badlogic/pi-mono) – Toolkit for building AI agents
 
----
-
-<sub>Previously: Computer vision research · Distributed systems</sub>
+Previously: Computer vision research · Distributed systems
 
 [![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
