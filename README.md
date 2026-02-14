@@ -1,6 +1,8 @@
 ### George Zhang
 
-San Francisco · Crafting CLI tools for AI agents.
+📍 San Francisco
+
+Crafting CLI tools for AI agents.
 
 **Projects**
 
