@@ -1,19 +1,19 @@
-San Francisco
+### George Zhang
 
-Crafting CLI tools for AI agents.
+San Francisco · Crafting CLI tools for AI agents.
 
-### Projects
+**Projects**
 
-- [feed](https://github.com/odysseus0/feed) – Headless RSS engine for AI agents. Single binary, no server. Your sources, your algorithm.
-- [linear-cli](https://github.com/odysseus0/linear-cli) – Linear from the terminal. Built for agents, usable by humans.
+[feed](https://github.com/odysseus0/feed) – Headless RSS engine for AI agents. Single binary, no server. Your sources, your algorithm.
+[linear-cli](https://github.com/odysseus0/linear-cli) – Linear from the terminal. Built for agents, usable by humans.
 
-### Contributions
+**Contributions**
 
-- [OpenClaw](https://github.com/openclaw/openclaw) – Open-source AI assistant platform
-- [pi](https://github.com/badlogic/pi-mono) – Toolkit for building AI agents
+[OpenClaw](https://github.com/openclaw/openclaw) – Open-source AI assistant platform
+[pi](https://github.com/badlogic/pi-mono) – Toolkit for building AI agents
 
 ---
 
-Previously: Computer vision research · Distributed systems
+<sub>Previously: Computer vision research · Distributed systems</sub>
 
-[\![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
+[![X](https://img.shields.io/badge/-@odysseus0z-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/odysseus0z)
