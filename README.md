@@ -2,7 +2,7 @@
 
 📍 San Francisco
 
-Crafting CLI tools for AI agents.
+AGI is here. It just needs a good harness to close the loop.
 
 **Projects**
 
